@@ -39,11 +39,25 @@ null, 6, 'BABY');
 
 INSERT INTO dairy.products
 (name, quantity, rating_number, rating_point, brand_id, origin, producer, manufactured_at, 
-target, volume, weight, sold, caution, instruction, preservation, description, ship_category_id)
+target, volume, weight, sold, caution, instruction, preservation, description, category_id, ship_category_id)
 VALUES
 ('Sữa Morinaga số 3 850g hương vani (Kodomil, trên 3 tuổi)', 200, 190, 5, 7, 'Nhật Bản', 'Công ty cổ phần Morinaga Lê Mây Việt Nam', 'Morinaga Milk Industry Co., LTD, Nhật Bản', 
-'Dành cho trẻ từ 3 tuổi trử lên', null, 850, 300, null, 'Cho 3 muỗng gạt ngang (18g) bột Kodomil vào ly bằng cách sử dụng muỗng chuyên dụng đi kèm trong hộp|Thêm 90ml nước đun sôi để nguội hoặc nước ấm ở nhiệt độ 40 - 50 độ C vào ly khuấy đều cho đến khi tan hết',
-'Bảo quản ở nhiệt độ phòng, tránh ánh sáng trực tiếp. . Không bảo quản sản phẩm trong tủ lạnh. Sau khi mở gói 18g, vui lòng sử dụng hết trong 1 lần, không để lại cho lần tiếp theo. Nên cho trẻ sử dụng ngay sau khi pha', null, 7, 'BABY'),
-('Sữa bầu Morinaga E-Okasan hương trà sữa 800g', 100, 10, 5, 7, null, null, 'Nhật Bản', 
+'Dành cho trẻ từ 3 tuổi trử lên', null, 850, 300, null,
+'Cho 3 muỗng gạt ngang (18g) bột Kodomil vào ly bằng cách sử dụng muỗng chuyên dụng đi kèm trong hộp|Thêm 90ml nước đun sôi để nguội hoặc nước ấm ở nhiệt độ 40 - 50 độ C vào ly khuấy đều cho đến khi tan hết',
+'Bảo quản ở nhiệt độ phòng, tránh ánh sáng trực tiếp. . Không bảo quản sản phẩm trong tủ lạnh. Sau khi mở gói 18g, vui lòng sử dụng hết trong 1 lần, không để lại cho lần tiếp theo. Nên cho trẻ sử dụng ngay sau khi pha', 
+null, 7, 'BABY'),
+('Sữa bầu Morinaga E-Okasan hương trà sữa 800g', 100, 10, 5, 7, null, null,  'Nhật Bản', 
 'Phụ nữ mang thai và cho con bú', null, 800, 50, 'Không dùng sản phẩm khi hết hạn sử dụng|Sản phẩm có chứa chất gây dị ứng: Sữa, đậu nành|Sau khi hoà tan sữa, hãy uống càng sớm càng tốt|Chỉ sử dụng muỗng có trong lon|Sau khi mở hộp, nên sử dụng hết trong vòng 1 tháng',
-null, 'Bảo quản ở nhiệt độ phòng, tránh ánh nắng trực tiếp, nơi có nhiệt độ và độ ẩm cao. Không bảo quản trong tủ lạnh', null, 'MOMY');
+null, 'Bảo quản ở nhiệt độ phòng, tránh ánh nắng trực tiếp, nơi có nhiệt độ và độ ẩm cao. Không bảo quản trong tủ lạnh', null, 7, 'MOMY'),
+('Sữa Meiji Infant Formula 800g (0-12 tháng)', 200, 3100, 5, 8, 'Nhật Bản', null, 'Nhật Bản', 
+'Cho trẻ từ 0-12 tháng', null, 800, 2000, null, 'Rửa tay trước khi pha|Đảm bảo các đồ dùng và thiết bị sạch sẽ và được tiệt trùng trong nước sôi|Sử dụng muỗng kèm trong hộp để lấy chính xác lượng bột cần thiết và đổ vào bình đã được tiệt trùng', 
+'Đậy kín nắp hộp sau khi mở và để ở nơi mát, khô ráo|Không nên cho sản phẩm vào tủ lạnh|Nên sử dụng trong vòng 4 tuần từ khi mở sản phẩm', null, 7, 'BABY'),
+('Sữa Morinaga số 1 850g (Hagukumi, 0-6 tháng)', 200, 216, 5, 7, null, null, 'Morinaga Milk Industry Co., LTD', 
+'Bé từ 0 - 6 tháng tuổi', null, 850, 300, null, 'Rừa tay và các dụng cụ pha bằng nước và xà phòng thật kỹ|Khử trùng bằng cách đun sôi các dụng cụ pha trong vòng 5 đến 10 phút, để ráo nước|Lấy chính xác lượng bột cần pha bằng muỗng đi kèm trong hộp, cho vào dụng cụ pha đã khử trùng', 
+'Để các dụng cụ pha, kể cả muỗng lường ở nơi khô ráo và sạch sẽ. Sau mỗi lần sử dụng, đậy thật chặt nắp hộp và bảo quản nơi khô ráo, thoát mát để sản phẩm không bị bụi và nhiễm khuẩn. Không bảo quản trong tủ lạnh. Sau khi mở hộp, nên sử dụng hết trong vòng 1 tháng.', 
+'Sữa mẹ là thức ăn tốt nhất cho sức khỏe và sự phát triển toàn diện của trẻ nhỏ', 7, 'BABY'),
+('Sữa Wakodo MOM 830g', 200, 45, 5, 9, 'Nhật Bản', 'Asahi Group Foods, Ltd', 'Nhật Bản', 
+'Dành cho mẹ mang thai và cho con bú', null, 830, 3000, 'Sử dụng sản phẩm ngay sau khi pha|Luôn sử dụng muỗng lường trong lon|Rửa sạch và lau khô muỗng lường sau khi sử dụng và để lại trong lon',
+'Luôn pha ở nơi sạch sẽ. Rửa tay và dụng cụ thật sạch trước khi pha bằng chiếc muỗng có sẵn trong lon. Sử dụng nước sạch để pha', 
+'Trước khi sử dụng, bảo quản nơi khô ráo, thoáng mát|Sau khi sử dụng, đóng kín nắp lon và để nơi khô ráo, thoáng mát, sạch sẽ|Nên dùng sản phẩm trước hạn sử dụng và sử dụng trong vòng 1 tháng sau khi mở nắp lon', 
+null, 7, 'MOMY');

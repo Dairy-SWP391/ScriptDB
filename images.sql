@@ -35,4 +35,16 @@ INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
 (8, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-bau-morinaga-e-okasan-huong-tra-sua-800g.jpg?alt=media'),
 (8, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-bau-morinaga-e-okasan-huong-tra-sua-800g%20(1).jpg?alt=media'),
 (8, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-bau-morinaga-e-okasan-huong-tra-sua-800g%20(2).jpg?alt=media'),
-(8, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-bau-morinaga-e-okasan-huong-tra-sua-800g%20(3).jpg?alt=media');
+(8, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-bau-morinaga-e-okasan-huong-tra-sua-800g%20(3).jpg?alt=media'),
+(9, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/meiji-infant-formula-800g-0-12-thang.jpg?alt=media'),
+(9, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/meiji-infant-formula-800g-0-12-thang%20(1).jpg?alt=media'),
+(9, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/meiji-infant-formula-800g-0-12-thang%20(2).jpg?alt=media'),
+(9, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/meiji-infant-formula-800g-0-12-thang%20(3).jpg?alt=media'),
+(10, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/morinaga-so-1-hagukumi-0-6-thang-850g.jpg?alt=media'),
+(10, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/morinaga-so-1-hagukumi-0-6-thang-850g%20(1).jpg?alt=media'),
+(10, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/morinaga-so-1-hagukumi-0-6-thang-850g%20(2).jpg?alt=media'),
+(10, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/morinaga-so-1-hagukumi-0-6-thang-850g%20(3).jpg?alt=media'),
+(11, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/wakodo-lebens-mom-850g.png?alt=media'),
+(11, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/wakodo-lebens-mom-850g%20(1).png?alt=media'),
+(11, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/wakodo-lebens-mom-850g%20(2).png?alt=media'),
+(11, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/wakodo-lebens-mom-850g%20(3).png?alt=media');

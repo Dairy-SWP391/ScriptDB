@@ -8,4 +8,6 @@ INSERT INTO dairy.brands (name) VALUES
 ('Abbott Grow');
 
 INSERT INTO dairy.brands (name) VALUES
-('Morinaga');
+('Morinaga'),
+('Meiji'),
+('Wakodo');

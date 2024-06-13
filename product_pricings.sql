@@ -11,4 +11,7 @@ INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, endin
 
 INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, ending_timestamp) VALUES 
 (7, 499000, now(), null),
-(8, 580000, now(), null);
+(8, 580000, now(), null),
+(9, 529000, now(), null),
+(10, 579000, now(), null),
+(11, 455000, now(), null);
