@@ -26,7 +26,6 @@ INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
 (1, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-similac-5g-so-2-900g-6-12-thang%20(1).jpg?alt=media'),
 (1, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-similac-5g-so-2-900g-6-12-thang%20(2).jpg?alt=media');
 
-
 INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
 (7, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/morinaga-so-3-huong-vani-kodomil-tren-3-tuoi-850g.jpg?alt=media'),
 (7, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/morinaga-so-3-huong-vani-kodomil-tren-3-tuoi-850g%20(1).jpg?alt=media'),
@@ -48,3 +47,7 @@ INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
 (11, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/wakodo-lebens-mom-850g%20(1).png?alt=media'),
 (11, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/wakodo-lebens-mom-850g%20(2).png?alt=media'),
 (11, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/wakodo-lebens-mom-850g%20(3).png?alt=media');
+
+INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
+(12, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/combo-12-sua-bot-pha-san-yoko-110ml-loc-4.jpg?alt=media'),
+(12, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/combo-12-sua-bot-pha-san-yoko-110ml-loc-4%20(1).jpg?alt=media')

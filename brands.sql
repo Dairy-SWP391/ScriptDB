@@ -11,3 +11,7 @@ INSERT INTO dairy.brands (name) VALUES
 ('Morinaga'),
 ('Meiji'),
 ('Wakodo');
+
+-- SỮA BỘT PHA SẴN
+INSERT INTO dairy.brands (name) VALUES
+('Yokogold')

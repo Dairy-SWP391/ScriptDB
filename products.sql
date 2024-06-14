@@ -61,3 +61,13 @@ null, 'Bảo quản ở nhiệt độ phòng, tránh ánh nắng trực tiếp, 
 'Luôn pha ở nơi sạch sẽ. Rửa tay và dụng cụ thật sạch trước khi pha bằng chiếc muỗng có sẵn trong lon. Sử dụng nước sạch để pha', 
 'Trước khi sử dụng, bảo quản nơi khô ráo, thoáng mát|Sau khi sử dụng, đóng kín nắp lon và để nơi khô ráo, thoáng mát, sạch sẽ|Nên dùng sản phẩm trước hạn sử dụng và sử dụng trong vòng 1 tháng sau khi mở nắp lon', 
 null, 7, 'MOMY');
+
+INSERT INTO dairy.products
+(name, quantity, rating_number, rating_point, brand_id, origin, producer, manufactured_at, 
+target, volume, weight, sold, caution, instruction, preservation, description, category_id, ship_category_id, num_of_packs)
+VALUES
+('Thùng sữa uống dinh dưỡng Vinamilk Yoko Gold 110ml (Lốc 4 hộp)', 100, 371, 4.5, 10, 'Việt Nam', 'Vinamilk', 'Việt Nam', 
+'Bé từ 1 tuổi trở lên', 110, null, 300, null, 'Ngon hơn khi uống lạnh. Lắc đều trước khi sử dụng', 'Bảo quản nơi khô ráo và thoáng mát',
+'Sữa mẹ là thức ăn tốt nhất cho sức khỏe và sự phát triển toàn diện của trẻ nhỏ', 11, 'BABY', 48),
+(name, quantity, rating_number, rating_point, brand_id, origin, producer, manufactured_at, 
+target, volume, weight, sold, caution, instruction, preservation, description, category_id, ship_category_id, num_of_packs)

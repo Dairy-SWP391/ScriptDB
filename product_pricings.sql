@@ -15,3 +15,8 @@ INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, endin
 (9, 529000, now(), null),
 (10, 579000, now(), null),
 (11, 455000, now(), null);
+
+INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, ending_timestamp) VALUES 
+(12, 480000, now(), null),
+(12, 408000, now(), DATE('2024-6-30'));          
+
