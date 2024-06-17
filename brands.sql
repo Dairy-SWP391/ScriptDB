@@ -27,3 +27,11 @@ INSERT INTO dairy.brands (name) VALUES
 ('Hapi'),
 ('Herbs of Gold'),
 ('Dr.Maya');
+
+-- ĐỒ DÙNG MẸ & BÉ
+INSERT INTO dairy.brands (name) VALUES
+('Kuku'),
+('Gluck'),
+('Rototo Bebe'),
+('Crevil Germany'),
+('AOJ');

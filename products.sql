@@ -96,3 +96,27 @@ null, null, 50, 2000, null, null, null, null, 16, 'BABY', null),
 null, null, 567, 200, null, null, null, null, 18, 'MOMY', null),
 ('Siro Ăn ngon Minion Happy', 100, 21, 5, 19, 'Việt Nam', null, null, 
 null, null, 200, 300, null, null, null, null, 19, 'BABY', 30);
+
+-- ĐỒ DÙNG MẸ & BÉ
+INSERT INTO dairy.products
+(name, quantity, rating_number, rating_point, brand_id, origin, producer, manufactured_at, 
+target, volume, weight, sold, caution, instruction, preservation, description, category_id, ship_category_id, num_of_packs)
+VALUES
+('Bình sữa Kuku nhựa PP cổ hẹp 60ml (KU5926)', 20, 4, 4.5, 20, 'Taiwan', 'Jini Baby International Co., ltd.ĐC :27 Jia Dong , Chang Hua, Taiwan', null, 
+null, 60, 200, 10, null, 'Dùng để chứa sữa cho bé bú', 'Núm vú sử dụng an toàn ở nhiệt độ từ - 20 °C đến 120 °C|Thân bình sử dụng an toàn ở nhiệt độ từ - 20 °C đến 100 °C', 
+null, 23, 'BABY', null),
+('Máy hút sữa điện đơn Gluck GP31', 20, 49, 5, 21, 'Trung Quốc', null, null, 
+null, null, 600, 100, null, null, null, 'Máy hút sữa điện đơn Gluck GP31 của thương hiệu Gluck (Đức) là sản phẩm uy tín và chất lượng theo chuẩn châu Âu. Với công nghệ hút sữa hai giai đoạn, hút đồng thời hai bên, bầu ngực của mẹ sẽ được massage giúp tăng cường việc tiết sữa.', 
+24, 'MOMY', null),
+('Gối chống trào ngược ROTOTO BEBE Airmesh gỗ sồi nguyên khối (Trắng,Gấu nâu)', 20, 0, 5, 22, 'Hàn Quốc', 'Công ty TNHH Rototo bebe', null, 
+'Bé từ 0 đến dưới 36 tháng tuổi', null, 2200, 10, 'Tránh nuốt phải sợi vải  bay ra|Không sử dụng với mục đích nằm ngoài tác dụng của sản phẩm', 
+null, 'Bảo quản trong túi đựng gối khi không sử dụng', '﻿﻿﻿﻿﻿Gối chống trào ngược ROTOTO BEBE Airmesh gỗ sồi nguyên khối được làm từ chất liệu cao cấp, đảm bảo an toàn đối với trẻ em. Sản phẩm mang lại cho bé sự thoải mái, dịu êm và hạn chế trào ngược, trớ sữa hiệu quả. ', 25, 
+'BABY', null),
+('Dung dịch vệ sinh phụ nữ - Crevil Intim Wasch lotion 100ml', 10, 0, 5, 23, 'Đức', 'Crevil Cosmetic & Pharmaceuticals Germany GmbH', null, 
+null, 100, null, 0, 'Chỉ dùng vệ sinh bên ngoài, không dùng thụt rửa bên trong âm đạo', 'Làm ướt vùng kín, cho 3 - 4 giọt dung dịch vào lòng bàn tay, thoa rửa nhẹ vùng kín sau đó rửa lại bằng nước sạch', 
+'Bảo quản nơi khô ráo, dưới 30ºC, tránh nắng trực tiếp', 'Liều lượng: Dùng 1-3 lần/ngày.', 26, 'MOMY', null),
+('Nhiệt kế hồng ngoại AOJ-20A', 100, 195, 5, 24, 'Trung Quốc', null, null, 
+null, null, 400, 300, '	Thiết bị dùng để tự kiểm tra nhiệt độ, không phải thiết bị chẩn đoán hay điều trị. Cần tham vấn bác sĩ khi thấy nhiệt độ cơ thể bất thường',
+'Lắp 2 pin AAA vào máy. Khởi động nhiệt kế và chọn chế độ', 'Tránh để bụi rơi vào đầu đọc nhiệt kế. Không nhúng trực tiếp vào chất lỏng. Vệ sinh đầu lọc thường xuyên bằng bông hoặc vải mềm để đo nhiệt độ được chính xác. Tránh xa tầm tay trẻ em', 
+'Kích thước (Dài x Rộng x Cao): 14.3 x 4.1 x 3.5 cm', 28, 'MOMY', null);
+

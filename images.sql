@@ -85,3 +85,19 @@ INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
 (20, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bao-ve-suc-khoe-ginkgo-biloba-6000%20(2).png?alt=media'),
 (20, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bao-ve-suc-khoe-ginkgo-biloba-6000%20(3).png?alt=media'),
 (21, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/siro-an-ngon-minion-happy.jpg?alt=media');
+
+-- ĐỒ DÙNG MẸ & BÉ
+INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
+(22, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/binh-sua-nhua-pp-kuku-ku5926-60ml.jpg?alt=media'),
+(23, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/may-hut-sua-dien-don-gluck-gp31%20(2).jpg?alt=media'),
+(23, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/may-hut-sua-dien-don-gluck-gp31%20(1).jpg?alt=media'),
+(23, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/may-hut-sua-dien-don-gluck-gp31.jpg?alt=media'),
+(24, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/goi-chong-trao-nguoc-rototo-bebe-airmesh-go-soi-nguyen-khoi-trang-gau-nau.png?alt=media'),
+(25, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/dung-dich-ve-sinh-phu-nu-crevil-intim-wasch-lotion-100ml.png?alt=media'),
+(25, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/dung-dich-ve-sinh-phu-nu-crevil-intim-wasch-lotion-100ml%20(1).png?alt=media'),
+(25, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/dung-dich-ve-sinh-phu-nu-crevil-intim-wasch-lotion-100ml%20(2).png?alt=media'), 
+(26, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/nhiet-ke-hong-ngoai-aoj-20a.jpg?alt=media'),
+(26, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/nhiet-ke-hong-ngoai-aoj-20a%20(1).jpg?alt=media'),
+(26, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/nhiet-ke-hong-ngoai-aoj-20a%20(2).jpg?alt=media');
+
+

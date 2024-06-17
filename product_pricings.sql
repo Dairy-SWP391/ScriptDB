@@ -37,3 +37,14 @@ INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, endin
 (20, 450000, DATE('2024-06-01'), null),
 (20, 330000, now(), DATE('2024-7-30')),
 (21, 359000, now(), null);
+
+-- ĐỒ DÙNG MẸ & BÉ
+INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, ending_timestamp) VALUES 
+(22, 97000, DATE('2024-06-01'), null),
+(22, 49000, now(), DATE('2024-7-30')),
+(23, 1089000, DATE('2024-06-01'), null),
+(23, 762300, now(), DATE('2024-7-30')),
+(24, 2180000, now(), null),
+(25, 125000, now(), null),
+(26, 745000, DATE('2024-06-01'), null),
+(26, 372500, now(), DATE('2024-7-30'));
