@@ -14,4 +14,6 @@ INSERT INTO dairy.brands (name) VALUES
 
 -- SỮA BỘT PHA SẴN
 INSERT INTO dairy.brands (name) VALUES
-('Yokogold')
+('Yokogold'),
+('Optimum Gold'),
+('ColosGold'),

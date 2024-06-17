@@ -50,4 +50,12 @@ INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
 
 INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
 (12, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/combo-12-sua-bot-pha-san-yoko-110ml-loc-4.jpg?alt=media'),
-(12, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/combo-12-sua-bot-pha-san-yoko-110ml-loc-4%20(1).jpg?alt=media')
+(12, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/combo-12-sua-bot-pha-san-yoko-110ml-loc-4%20(1).jpg?alt=media'),
+(13, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-uong-dinh-duong-optimum-gold-110ml-loc-4-hop.jpg?alt=media'),
+(13, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-uong-dinh-duong-optimum-gold-110ml-loc-4-hop%20(1).jpg?alt=media'),
+(13, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-uong-dinh-duong-optimum-gold-110ml-loc-4-hop%20(2).jpg?alt=media'),
+(13, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-uong-dinh-duong-optimum-gold-110ml-loc-4-hop%20(3).jpg?alt=media'),
+(14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop.jpg?alt=media'),
+(14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop%20(1).jpg?alt=media'),
+(14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop%20(2).jpg?alt=media'),
+(14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop%20(3).jpg?alt=media');

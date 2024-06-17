@@ -69,5 +69,10 @@ VALUES
 ('Thùng sữa uống dinh dưỡng Vinamilk Yoko Gold 110ml (Lốc 4 hộp)', 100, 371, 4.5, 10, 'Việt Nam', 'Vinamilk', 'Việt Nam', 
 'Bé từ 1 tuổi trở lên', 110, null, 300, null, 'Ngon hơn khi uống lạnh. Lắc đều trước khi sử dụng', 'Bảo quản nơi khô ráo và thoáng mát',
 'Sữa mẹ là thức ăn tốt nhất cho sức khỏe và sự phát triển toàn diện của trẻ nhỏ', 11, 'BABY', 48),
+('Thùng Sữa uống dinh dưỡng Optimum Gold 110ml (Lốc 4 hộp) - 12 lốc', 
+100, 190, 5, 11, 'Việt Nam', 'Vinamilk', 'Việt Nam', 
+null, 110, null, 300, null, null, null, null, 11, 'BABY', 48),
+('Thùng Sữa non Vinamilk ColosGold 110ml (từ 1 tuổi) lốc 4 hộp - 12 lốc', 100, 100, 5, 12, 'Việt Nam', 'Vinamilk', 'Việt Nam', 
+'Trẻ từ 1 tuổi', 110, null, 2500, null, null, null, null, 11, 'BABY', 48),
 (name, quantity, rating_number, rating_point, brand_id, origin, producer, manufactured_at, 
-target, volume, weight, sold, caution, instruction, preservation, description, category_id, ship_category_id, num_of_packs)
+target, volume, weight, sold, caution, instruction, preservation, description, category_id, ship_category_id, num_of_packs);
