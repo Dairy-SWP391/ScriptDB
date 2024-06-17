@@ -17,3 +17,13 @@ INSERT INTO dairy.brands (name) VALUES
 ('Yokogold'),
 ('Optimum Gold'),
 ('ColosGold'),
+('Oldenburger'),
+('Kun');
+
+-- VITAMIN & SỨC KHỎE
+INSERT INTO dairy.brands (name) VALUES
+('Chewy Vites'),
+('BioAmicus'),
+('Hapi'),
+('Herbs of Gold'),
+('Dr.Maya');

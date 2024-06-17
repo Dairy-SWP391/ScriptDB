@@ -17,10 +17,23 @@ INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, endin
 (11, 455000, now(), null);
 
 INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, ending_timestamp) VALUES 
-(12, 480000, now(), null),
+(12, 480000, DATE('2024-06-01'), null),
 (12, 408000, now(), DATE('2024-6-30')),
-(13, 444000, now(), null),
+(13, 444000, DATE('2024-06-01'), null),
 (13, 377400, now(), DATE('2024-7-30')),
-(14, 468000, now(), null),
-(14, 397800, now(), DATE('2024-7-30'));          
+(14, 468000, DATE('2024-06-01'), null),
+(14, 397800, now(), DATE('2024-7-30')),
+(15, 480000, DATE('2024-06-01'), null),
+(15, 288000, now(), DATE('2024-7-30')),
+(16, 130000, DATE('2024-06-01'), null),
+(16, 110500, now(), DATE('2024-7-30'));
 
+-- VITAMIN & SỨC KHỎE
+INSERT INTO dairy.product_pricings (product_id, price, starting_timestamp, ending_timestamp) VALUES 
+(17, 265000, DATE('2024-06-01'), null),
+(17, 225000, now(), DATE('2024-7-30')),
+(18, 480000, now(), null),
+(19, 325000, now(), null),
+(20, 450000, DATE('2024-06-01'), null),
+(20, 330000, now(), DATE('2024-7-30')),
+(21, 359000, now(), null);

@@ -74,5 +74,25 @@ VALUES
 null, 110, null, 300, null, null, null, null, 11, 'BABY', 48),
 ('Thùng Sữa non Vinamilk ColosGold 110ml (từ 1 tuổi) lốc 4 hộp - 12 lốc', 100, 100, 5, 12, 'Việt Nam', 'Vinamilk', 'Việt Nam', 
 'Trẻ từ 1 tuổi', 110, null, 2500, null, null, null, null, 11, 'BABY', 48),
+('Thùng Sữa tươi tiệt trùng Oldenburger ít đường 180ml (lốc 4 hộp)', 200, 15, 5, 13, null, 'Công Ty TNHH DMK Dairy Việt Nam', 'Công Ty Cổ Phần Sữa Evergrowth', 
+'Từ 1 tuổi trở lên', 180, null, 300, null, 'Uống trực tiếp, ngon hơn khi uống lạnh', 'Nơi khô thoáng, tránh ánh nắng mặt trời', null, 12, 'BABY', 16),
+('Thùng sữa uống KUN Socola Lúa Mạch 110ml - 24 túi', 200, 0, 5, 14, null, 'Nhà máy Sữa Quốc Tế Ba Vì', 'Việt Nam', 
+'Trẻ từ 3 tuổi trở lên', 110, null, 0, 'Hiện tượng thay đổi màu sắc và lắng đọng tự nhiên không làm ảnh hưởng đến chất lượng sản phẩm', 
+'Ngon hơn khi uống lạnh|Lắc đều trước khi sử dụng', 'Bảo quản nơi khô ráo và thoáng mát|Tránh ánh nắng trực tiếp', null, 12, 'BABY', 24);
+
+-- VITAMIN & SỨC KHỎE
+INSERT INTO dairy.products
 (name, quantity, rating_number, rating_point, brand_id, origin, producer, manufactured_at, 
-target, volume, weight, sold, caution, instruction, preservation, description, category_id, ship_category_id, num_of_packs);
+target, volume, weight, sold, caution, instruction, preservation, description, category_id, ship_category_id, num_of_packs)
+VALUES
+('Thực phẩm bổ sung CHEWY VITES KIDS IMMUNE SUPPORT', 100, 39, 5, 15, 'Anh', null, 'Tây Ban Nha', 
+'Bé trên 1 tuổi và người lớn', null, 150, 200, 'Không nên dùng khi đói bụng, tốt nhất nên dùng trong bữa ăn', 'Dùng 1-2 viên mỗi ngày', 
+'Bảo quản nơi thoáng mát nhiệt độ dưới 25°C', null, 15, 'BABY', null),
+('BioAmicus Complete', 20, 1100, 5, 16, null, null, null, 
+null, null, 50, 2000, null, null, null, null, 16, 'BABY', null),
+('Lợi sữa Hi Mom Hapi (hộp 30 gói)', 300, 64, 5, 17, 'Việt Nam', null, 'Việt Nam', 
+'Mẹ sau sinh', 300, null, 2000, null, null, null, null, 17, 'MOMY', 30),
+('Thực phẩm bảo vệ sức khoẻ Herbs of Gold Ginkgo Biloba 6000', 20, 0, 5, 18, 'Úc', null, null, 
+null, null, 567, 200, null, null, null, null, 18, 'MOMY', null),
+('Siro Ăn ngon Minion Happy', 100, 21, 5, 19, 'Việt Nam', null, null, 
+null, null, 200, 300, null, null, null, null, 19, 'BABY', 30);

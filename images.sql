@@ -58,4 +58,30 @@ INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
 (14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop.jpg?alt=media'),
 (14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop%20(1).jpg?alt=media'),
 (14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop%20(2).jpg?alt=media'),
-(14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop%20(3).jpg?alt=media');
+(14, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-non-vinamilk-colosgold-110ml-tu-1-tuoi-loc-4-hop%20(3).jpg?alt=media'),
+(15, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-tuoi-tiet-trung-oldenburger-it-duong-180ml-loc-4-hop.png?alt=media'),
+(15, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-tuoi-tiet-trung-oldenburger-it-duong-180ml-loc-4-hop%20(1).png?alt=media'),
+(15, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-tuoi-tiet-trung-oldenburger-it-duong-180ml-loc-4-hop%20(2).png?alt=media'),
+(15, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/sua-tuoi-tiet-trung-oldenburger-it-duong-180ml-loc-4-hop%20(3).png?alt=media'),
+(16, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thung-sua-uong-kun-socola-lua-mach-110ml-24-tui.png?alt=media'),
+(16, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thung-sua-uong-kun-socola-lua-mach-110ml-24-tui%20(1).png?alt=media');
+
+-- VITAMIN & SỨC KHỎE
+INSERT INTO dairy.images (parent_id, parent_type, image_url) VALUES
+(17, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bo-sung-chewy-vites-kids-immune-support.png?alt=media'),
+(17, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bo-sung-chewy-vites-kids-immune-support.jpg?alt=media'),
+(17, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bo-sung-chewy-vites-kids-immune-support%20(1).jpg?alt=media'),
+(17, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bo-sung-chewy-vites-kids-immune-support%20(2).jpg?alt=media'),
+(18, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/bioamicus-complete.jpg?alt=media'),
+(18, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/bioamicus-complete%20(1).jpg?alt=media'),
+(18, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/bioamicus-complete%20(2).jpg?alt=media'),
+(18, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/bioamicus-complete%20(3).jpg?alt=media'),
+(19, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/loi-sua-hi-mom-hapi.png?alt=media'),
+(19, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/loi-sua-hi-mom-hapi%20(1).png?alt=media'),
+(19, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/loi-sua-hi-mom-hapi%20(2).png?alt=media'),
+(19, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/loi-sua-hi-mom-hapi%20(3).png?alt=media'),
+(20, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bao-ve-suc-khoe-ginkgo-biloba-6000.png?alt=media'),
+(20, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bao-ve-suc-khoe-ginkgo-biloba-6000%20(1).png?alt=media'),
+(20, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bao-ve-suc-khoe-ginkgo-biloba-6000%20(2).png?alt=media'),
+(20, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/thuc-pham-bao-ve-suc-khoe-ginkgo-biloba-6000%20(3).png?alt=media'),
+(21, 'PRODUCT', 'https://firebasestorage.googleapis.com/v0/b/dairy-7d363.appspot.com/o/siro-an-ngon-minion-happy.jpg?alt=media');
